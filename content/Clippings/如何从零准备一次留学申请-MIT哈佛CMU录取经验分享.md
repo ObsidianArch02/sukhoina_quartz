@@ -1,3 +1,8 @@
+---
+created: 2025-06-26
+---
+
+
 # 【BibiGPT】AI 一键总结：[如何从零准备一次留学申请-MIT哈佛CMU录取经验分享](https://bibigpt.co/video/BV1Wg4y1T7Jg)
 
 ![[images/c93f0b516b4ffa7b7c9c5ee50930c7de_MD5.webp]]
