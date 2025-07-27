@@ -1,12 +1,12 @@
 ---
-title: "[指南]如何在 LTSC (IoT)上安装 Winget 而不使用 Windows Store : r/Windows10LTSC --- [Guide] How to install Winget on LTSC (IoT) without the Windows Store : r/Windows10LTSC"
-source: "https://www.reddit.com/r/Windows10LTSC/comments/t7hg44/guide_how_to_install_winget_on_ltsc_iot_without/"
-author:
+title: "[指南]如何在 LTSC (IoT)上安装 Winget 而不使用 Windows Store"
+source: https://www.reddit.com/r/Windows10LTSC/comments/t7hg44/guide_how_to_install_winget_on_ltsc_iot_without/
+author: 
 published: 2022-03-06
 created: 2025-01-09
-description:
+description: 
 tags:
-  - "clippings"
+  - clippings
 ---
 There are clear and straightforward instructions on the [winget GitHub page](https://github.com/microsoft/winget-cli).  
 在 winget 的 GitHub 页面上有明确且直接的说明。
