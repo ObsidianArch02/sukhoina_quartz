@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "f6a715332fb93c9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce319f9b50082e79",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Windows配置.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f16ce53d064e07ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "65ffba94b1410a73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d942e9033618f9fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "411e08759e3526cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "wsl",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "9da7b4f7ed951e08",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a42d111d2ea2ab5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c579d2153086afcb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Windows配置.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fe9e5a0b822d67b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Windows配置.md"
+              }
+            }
+          },
+          {
+            "id": "a5120e3d296f5aa5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Windows配置.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5,
+    "collapsed": true
+  },
+  "active": "ce319f9b50082e79",
+  "lastOpenFiles": [
+    "书单.md",
+    "模版/zk模板.md",
+    "模版/blog模版.md",
+    "模版/随想录模版.md",
+    "屏幕截图 2022-09-28 105229.png",
+    "草稿/ZFS、Btrfs与APFS，初探先进文件系统.md",
+    "002-ZK卡片/202202081604-Rachel's Blog Rachel030219 “妖魔化”技术与知识.md",
+    "002-ZK卡片/202203301139-cs问题解决.md",
+    "002-ZK卡片/202201180852-硬盘选购建议.md",
+    "002-ZK卡片/202201021610-动漫BD压制组推荐.md"
+  ]
+}

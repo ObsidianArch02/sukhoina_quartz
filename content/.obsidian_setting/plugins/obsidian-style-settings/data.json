@@ -1,0 +1,19 @@
+{
+  "blue-topaz-theme@@translucent-setting-panel": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "blue-topaz-theme@@blur-depth": 30,
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-none",
+  "blue-topaz-theme@@background-image-settings-switch": true,
+  "blue-topaz-theme@@bt-status-off": false,
+  "blue-topaz-theme@@circular-checkbox": false,
+  "blue-topaz-theme@@fancy-hr": false,
+  "shimmering-focus@@shapes": "squareish-shapes",
+  "shimmering-focus@@preset-color-scheme": "nord-colors",
+  "shimmering-focus@@colored-yaml": true,
+  "shimmering-focus@@code-block-syntax-hl-light-mode": "default-syntax-hl-light",
+  "shimmering-focus@@code-block-syntax-hl-dark-mode": "default-syntax-hl-dark",
+  "shimmering-focus@@max-view-enabled": false,
+  "shimmering-focus@@no-pdf-dark-mode": true,
+  "Yin and Yang@@l-accent": "#AFDCFF",
+  "Yin and Yang@@d-accent": "#CCEBFF"
+}
