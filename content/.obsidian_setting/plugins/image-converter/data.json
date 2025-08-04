@@ -154,9 +154,14 @@
         "pathFormat": "relative",
         "prependCurrentDir": true,
         "hideFolders": false
+      },
+      {
+        "name": "111",
+        "linkFormat": "wikilink",
+        "pathFormat": "absolute"
       }
     ],
-    "selectedLinkFormatPreset": "Default (Wikilink, Shortest)"
+    "selectedLinkFormatPreset": "111"
   },
   "nonDestructiveResizeSettings": {
     "resizePresets": [
