@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "241807abfc5f2e0e",
+        "id": "b2ee4d50d12b645d",
         "type": "tabs",
         "children": [
           {
-            "id": "e1338707a0b16ce2",
+            "id": "990ac33fcd546172",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/好、坏、丑：AI 元年，手机厂商为什么再次爱上了跑马灯？ - 少数派.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "好、坏、丑：AI 元年，手机厂商为什么再次爱上了跑马灯？ - 少数派"
+              "title": "新标签页"
             }
           }
         ]
@@ -41,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -135,21 +130,35 @@
       "markitdown:Convert to Markdown with Markitdown": false
     }
   },
-  "active": "e1338707a0b16ce2",
+  "active": "d942e9033618f9fa",
   "lastOpenFiles": [
-    "images/Pasted image 20250804163616.png",
-    "images/Pasted image 20250804163609.png",
-    "images/Pasted image 20250804163603.png",
-    "images/Pasted image 20250804163557.png",
-    "images/Pasted image 20250804163549.png",
-    "images/Pasted image 20250804163528.png",
-    "images/Pasted image 20250804163520.png",
-    "images/Pasted image 20250804163512.png",
-    "images/Pasted image 20250804163505.png",
-    "images/Pasted image 20250804163458.png",
-    "images/Pasted image 20250804163449.png",
-    "images/好、坏、丑：AI 元年，手机厂商为什么再次爱上了跑马灯？ - 少数派",
+    "Clippings/关于习惯养成和打破的科学.md",
+    "Clippings/大语言模型对个人的杠杆.md",
+    "Clippings/两天时间， AI 编程去魅 - V2EX.md",
+    "Clippings/2025 年的 AI 协助编程观察 – Yachen's Blog.md",
+    "Clippings/LLMs in Programming.md",
+    "Clippings/有没有一段代码，让你为人类的智慧击节叫好？ - 知乎.md",
+    "images/有没有一段代码，让你为人类的智慧击节叫好？ - 知乎/ee1a849beeffe1138f75dd46dd649052_MD5.jpg",
+    "images/有没有一段代码，让你为人类的智慧击节叫好？ - 知乎",
+    "Clippings/识别唇语、解锁无声输入：苹果 Vision Pro 头显新专利曝光 - IT之家.md",
+    "未命名.md",
+    "未命名 1",
+    "未命名",
+    "Clippings/GPT5编程能力快速评估.md",
+    "Clippings/为什么一般人不建议住别墅? - 知乎.md",
+    "images/为什么一般人不建议住别墅? - 知乎/14312afb1ea705ce9b918bbb29f2af82_MD5.jpg",
+    "images/为什么一般人不建议住别墅? - 知乎/134180d2b63c248db74d0ed2e74e8374_MD5.jpg",
+    "images/为什么一般人不建议住别墅? - 知乎/08f07c3842d44f7923292fd5bfdddd1f_MD5.jpg",
+    "images/为什么一般人不建议住别墅? - 知乎/3f21b25bfd3d31638e273baf6a6e2131_MD5.jpg",
+    "images/为什么一般人不建议住别墅? - 知乎/1a4c56a59f0188e097589c20b3e17913_MD5.jpg",
+    "images/为什么一般人不建议住别墅? - 知乎/ca2a939c2f3c2d866ce482639ee4977d_MD5.jpg",
+    "images/为什么一般人不建议住别墅? - 知乎/311cf0c441c017af35e0d405753f6030_MD5.jpg",
+    "images/为什么一般人不建议住别墅? - 知乎/cf603b690a08616e2b21ec11aed07b0b_MD5.jpg",
+    "images/为什么一般人不建议住别墅? - 知乎/a1b6765ef25981e1a6343764e424abe3_MD5.jpg",
+    "images/为什么一般人不建议住别墅? - 知乎",
+    "images/(1 条消息) 为什么一般人不建议住别墅? - 知乎",
     "Clippings/好、坏、丑：AI 元年，手机厂商为什么再次爱上了跑马灯？ - 少数派.md",
+    "images/好、坏、丑：AI 元年，手机厂商为什么再次爱上了跑马灯？ - 少数派",
     "Clippings/对谈项飙：我们为什么都在“活着”，但没“活着”的感觉.md",
     "images/对谈项飙：我们为什么都在“活着”，但没“活着”的感觉",
     "Clippings/艺术又终结了吗？.md",
@@ -167,22 +176,8 @@
     "templates/有关开源大模型.md",
     "templates/未命名 1.md",
     "index.md",
-    "images/Reinforcement Learning (RL) Guide  Unsloth Documentation",
     "Clippings/年轻的朋友，咱们不要太心急｜关于耐心的3点思考 - 少数派.md",
     "Clippings/玩转人体工程学：浅谈电脑桌的选购和改造 - 少数派.md",
-    "Clippings/如何彻底解决 PC 外接声卡卡顿爆音 - 少数派.md",
-    "Clippings/赵纯想 on X 高中时，爱情神圣得像一整片泡沫，常有“永远”字样的光彩滚动上来.md",
-    "Clippings/指南如何在 LTSC (IoT)上安装 Winget 而不使用 Windows Store.md",
-    "Clippings/智能家居设计师如何打造全屋智能-智能灯光系统 - 少数派.md",
-    "Clippings/医疗用品使用指南与健康管理建议.md",
-    "Clippings/万字盘点 2025 上半年，值得推荐的 AI 模型与产品清单 - 少数派.md",
-    "Clippings/看完就能假装玩过：关于异色名作《素晴らしき日々》的一切.md",
-    "Clippings/AV1和HEVC的性能差异有多大.md",
-    "Clippings/[rime配置]  请问如何设置打开某app始终切换到英文模式？ · Issue 164 · rimesquirrel.md",
-    "templates",
-    "未命名文件夹",
-    "Clippings/指南如何在 LTSC (IoT)上安装 Winget 而不使用 Windows Store  rWindows10LTSC --- Guide How to install Winget on LTSC (IoT) without the Windows Store  rWindows10LTSC.md.sb-979e14af-hBASyX",
-    "images",
     "@未整理/Arch Linux 折腾指南.canvas",
     "未命名.canvas",
     "旧归档/未命名.canvas"
